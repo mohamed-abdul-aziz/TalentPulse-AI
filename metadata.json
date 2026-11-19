@@ -1,0 +1,6 @@
+{
+  "name": "TalentPulse AI",
+  "description": "Intelligent Career Placement & ATS Alignment using deterministic vector matching and executive intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
